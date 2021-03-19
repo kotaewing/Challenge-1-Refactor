@@ -17,3 +17,4 @@ I added the following to make the website more accessible
 * Comments on the code further help to recognize the purpose of each section
 
 ## Website
+https://kotaewing.github.io/Challenge-1-Refactor/
